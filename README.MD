@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/https://github.com/EliasPira/prompts-recipe-to-create-a-ebook/blob/EliasPira-patch-1/assets/elias_pira._Imagine_smart_contracts_decentralized_finance_int_2661f09b-657e-4fb3-834a-8532bf9e2835_3.png.png"
     width="400"  
 />
 </p>
