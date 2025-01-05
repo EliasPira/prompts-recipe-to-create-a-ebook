@@ -41,7 +41,15 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título bem significativo para o seguinte tema para um e-book: Criptoativos e Geração de Valor Real, apresente cinco variações                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook com foco em Blockchain, Criptomoedas e Contrato inteligentes, sempre trazendo casos de usos no mundo real.
+
+{REGRAS}
+>Explique sempre de maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de uso em contexto reais
+>Explique prováveis impactos na economia real
+>Sempre deixe um título sugestivo por tópico
+ |
 
 
 Midjourney：
