@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".github/assets/elias_pira._Imagine_smart_contracts_decentralized_finance_int_2661f09b-657e-4fb3-834a-8532bf9e2835_3.png">
 </p>
 
 
