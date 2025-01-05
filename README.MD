@@ -56,7 +56,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Imagine smart contracts, decentralized finance, intercontinental payment systems, and relate them to crypto assets and blockchain and represent all of this in each of the generated images |
 
 ## ✨ Features
 
