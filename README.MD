@@ -1,9 +1,4 @@
 <p align="center">
-    <img width="100" src=".https://github.com/EliasPira/prompts-recipe-to-create-a-ebook/blob/EliasPira-patch-1/.github/assets/banner.png">
-</p>
-
-
-<p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
@@ -12,7 +7,7 @@
 
 <p align="center">
 <img width="400"
-    src=".https://github.com/EliasPira/prompts-recipe-to-create-a-ebook/blob/EliasPira-patch-1/assets/elias_pira._Imagine_smart_contracts_decentralized_finance_int_2661f09b-657e-4fb3-834a-8532bf9e2835_3.png"
+    src=".https://github.com/EliasPira/prompts-recipe-to-create-a-ebook/blob/EliasPira-patch-1/assets/capa_ebook.png"
 >
 </p>
 
