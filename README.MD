@@ -69,4 +69,3 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 https://github.com/EliasPira
 
-Teste de autenticação via SSH
